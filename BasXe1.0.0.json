@@ -1,10 +1,10 @@
 {
   "Zime": [
     {
-      "ip": "171.101.109.245",
-      "License": "ZIME_Lxqwe213-sadAUB",
-      "ResourceName": "Zime_avatar",
+      "ip": "171.101.110.99",
+      "License": "ZIME_Basex_Zime",
+      "ResourceName": ["Zime_Chat", "ZIME_2", "ZIME_3"],
       "Version": "1.0.0"
-    },
+    }
   ]
 }
